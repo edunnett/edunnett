@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Kotlin, Jetpack Compose, and Swift
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edunnett)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edunnett)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
